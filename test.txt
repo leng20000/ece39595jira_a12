@@ -1,5 +1,8 @@
 Testing JIRA for Prelab03 assignment
 
+input is 3 and 4 
+output is 7
+
 ───────────▄██████████████▄
 ───────▄████░░░░░░░░█▀────█▄
 ──────██░░░░░░░░░░░█▀──────█▄
